@@ -168,6 +168,7 @@ For Hilbert spaces $\mathcal{A},\mathcal{B}$, the *partial trace* over $\mathcal
 >Russell Lai sometimes implicitly discards the outcome register
 >
 >*Note*: Russell Lai writes $\sum\limits_{i=1}^n M_i M_i^{\dagger} = \bf{I}$, which is WRONG! That's the Heisenberg interpretation, but later he switches back to Schrödinger. Trace is cyclic, not commutative!
+>For details: [[Mistake in Russell Lai]]
 
 A *projective measurement* is a general measurement where the $M_i$ are projectors.
 

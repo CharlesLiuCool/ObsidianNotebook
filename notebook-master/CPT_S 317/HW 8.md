@@ -38,11 +38,11 @@ ___
 3. Construct a PDA to accept language $$L = \{w \in \{0, 1\}^* : \text{each prefix of } w \text{ is in the language defined in Problem } 2. \}$$ 
 You need also write down the explicit construction. (This is actually an easy problem. First, you have to understand the language. For instance $0001100111001 \in L$, but $001110 \notin L$. why? Since $w \in L$ requires that each prefix of $w$ contains more or the same number of $0$’s than $1$’s.)  
 
-$\delta(q_0, 0, *_1) = \{(q_1, 0*_1)\}$, where $*_1 = 0, Z_0$ `// Always push 0 (switch state to show something is read)`
-$\delta(q_1, 1, 0) = \{q_1, \Lambda\}$ `// Always pop 1`
-$\delta(q_1, \Lambda, Z_0) = \{q_2, *_1\}$ `// At the end, only when there are zeroes left or stack is empty will we accept`
+$\delta(q_0, 0, *_1) = \{(q_0, 0*_1)\}$, where $*_1 = 0, Z_0$ `// Always push 0 (switch state to show something is read)`
+$\delta(q_0, 1, 0) = \{q_0, \Lambda\}$ `// Always pop 1`
+$\delta(q_0, \Lambda, Z_0) = \{q_1, *_1\}$ `// At the end, only when there are zeroes left or stack is empty will we accept`
 
-$q_2$ = accepting state
+$q_1$ = accepting state
 
 ___
 

@@ -39,7 +39,11 @@ $$U \rho U^{\dagger}$$
 We see that for $\rho = | \psi \rangle \langle \psi |$ when we do $|\psi'\rangle = U | \psi \rangle$,
 $$\rho' = | \psi' \rangle \langle \psi' | = U | \psi \rangle \langle \psi | U^{\dagger} = U \rho U^{\dagger}$$
 
-### **Why $\text{Tr}(\rho) = 1$ Means Total Probability Holds**
+### **Unitary Preserves Probability**
+
+First, how do we define preserving probability?
+
+#### **Why $\text{Tr}(\rho) = 1$ Means Total Probability Holds**
 
 In probability, the some of the probability of all the outcomes in the sample space has to add to one. Suppose a set of positive measurement operators $\{E_i\}$. The probability of some outcome $i$ is given by *Born's rule*
 $$P(i) = \text{Tr}(\rho E_i)$$
@@ -68,7 +72,7 @@ $$\text{Tr}(\rho) = 1$$
 >1. $\sum\limits_i E_i = \bf{I}$
 >2. $\text{Tr}(\rho) = \sum\limits_i P(i)$
 
-### **Trace is Cyclic**
+#### **Trace is Cyclic**
 
 For a mixed/pure state described by the density operator, probabilities are measured by
 $$P(E) = \text{Tr}(\rho E)$$
@@ -87,7 +91,7 @@ $$\text{Tr}(ABC) = \text{Tr}(BCA) = \text{Tr}(CAB)$$
 > 
 > In fact, any function where $f(AB) = f(BA)$ is invariant under cyclic shifts!
 
-### **Unitary Preserves Probability**
+#### **Putting it Together: Unitary Preserves Probability**
 
 Earlier, we found unitary transformations on states look like $U \rho U^{\dagger}$.
 

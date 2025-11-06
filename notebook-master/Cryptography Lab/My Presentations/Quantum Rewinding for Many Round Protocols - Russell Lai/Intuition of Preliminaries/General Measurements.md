@@ -3,7 +3,12 @@
 
 ### **What We Need From a Measurement**
 
-A general measurement has to:
+We need:
+
+1. What outcome you get (the classical information you record)
+2. What state remains (the quantum state that remains)
+
+We first start with a naive approach:
 1. Take a quantum state $\rho$ on Hilbert Space $\mathcal{H}$
 2. Produce an outcome $i$ with probability
 $$p_i = \text{Tr}(M_i \rho M_i^\dagger)$$
@@ -11,7 +16,8 @@ $$p_i = \text{Tr}(M_i \rho M_i^\dagger)$$
 3. Leave the post-measurement state (if we got outcome $i$) as
 $$\rho_i' = \frac{M_i \rho M_i^{\dagger}}{p_i}$$
 
-But this only gives us probabilities and conditional states. To describe the whole thing as *quantum channel*, we need an object tat carries both the post-measurement state and the outcome information.
+
+But this only gives us probabilities and conditional states. To describe the whole thing as *quantum channel*, we need an object that carries both the post-measurement state and the outcome information.
 
 ### **Outcome Register $\mathcal{O}$**
 
