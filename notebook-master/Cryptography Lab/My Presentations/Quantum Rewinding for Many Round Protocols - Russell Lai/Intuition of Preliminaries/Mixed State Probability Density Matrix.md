@@ -17,4 +17,4 @@ since trace has linear properties, so summation and constants can be taken out.
 
 Notice, this is precisely what we want! Expectations of each pure state (a superposition) weighted by probability.
 
-See here for more detail: [[Ket-Bra as Probability Density Matrix]]
+See here for more detail: [[Born Rule & Ket-Bra as Probability Density Matrix]]

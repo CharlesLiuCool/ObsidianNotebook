@@ -55,10 +55,13 @@ $$P(a) = |\langle a | \psi \rangle |^2 = (\langle a | \psi \rangle)^* (\langle a
 
 So we can interpret this, probability is in the form $\langle \psi | O | \psi \rangle$ where $O$ is a ket-bra projector, and creates an expectation value. This is called the *Born rule*.
 
+
 This has one copy of the *state vector* and one of the *conjugate*, so its bilinear.
 
 This is why every *measurable prediction* in quantum mechanics looks something like
 $$\text{bra} \times \text{operator} \times \text{ket}$$
+
+Interesting note: $|a \rangle \langle a|$ must be Hermitian (see: [[Hermitian Operators]]). In fact, $O$ being Hermitian guarantees this $\langle \psi | O | \psi \rangle$ is real!
 
 ___
 

@@ -66,6 +66,8 @@ ___
 >$$\langle x,Ay\rangle = \langle A^{\dagger}x, y \rangle \text{ for all }x,y \in \mathcal{H}$$
 >So $A$ is Hermitian if
 >$$\langle x, Ay \rangle = \langle Ax, y \rangle \; \forall\;x,y \in \mathcal{H}$$
+>
+>*For More Intuition:* [[Hermitian Operators]]
 
 >**Definition** Space of Hermitian Operators 
 > We denote $S(\mathcal{H})$ as the space of Hermitian operators on $\mathcal{H}$

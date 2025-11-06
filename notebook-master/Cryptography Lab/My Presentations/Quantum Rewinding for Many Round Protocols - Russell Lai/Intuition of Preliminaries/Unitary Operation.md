@@ -65,9 +65,8 @@ $$\text{Tr}(\rho) = 1$$
 
 >*Takeaway*
 >The following are equivalent
->1. $\sum\limits_i P(i) = 1$
->2. $\sum\limits_i E_i = \bf{I}$
->3. $\text{Tr}(\rho) = 1$
+>1. $\sum\limits_i E_i = \bf{I}$
+>2. $\text{Tr}(\rho) = \sum\limits_i P(i)$
 
 ### **Trace is Cyclic**
 
