@@ -1,0 +1,269 @@
+{
+  "main": {
+    "id": "c653a6f81a588f07",
+    "type": "split",
+    "children": [
+      {
+        "id": "20c3d249c22475bf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2de220549ed2c209",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "37b443e91c996c5e",
+    "type": "split",
+    "children": [
+      {
+        "id": "b546f3ba2e8b8855",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "67794466bd1b71d7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5936a58c70e1f87a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "efcb3c9047bd4834",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "6b97814300a4ec02",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "notebook-master/Calculus III/Excalidraw/1. Review/Review Graphic 2.md"
+              },
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8768d427dc392ade",
+    "type": "split",
+    "children": [
+      {
+        "id": "3080fddefdc76fc2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "49dd3e9e12029fc3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "notebook-master/CPT_S 317/7. Non-Deterministic Finite Automata.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 7. Non-Deterministic Finite Automata"
+            }
+          },
+          {
+            "id": "5ebdb6f50a2c76e2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "notebook-master/Computer Science 223/Homework/HW 5.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from HW 5"
+            }
+          },
+          {
+            "id": "27432f859eb56e9f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f6450aab16860cbe",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "notebook-master/Cryptography Lab/My Presentations/Quantum States/Ket-Bra - The Projection Operator.md",
+                "followCursor": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Ket-Bra - The Projection Operator"
+            }
+          },
+          {
+            "id": "433b13480f8ea913",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "fbeefb5fc3818ea0",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "90e2d586800e4bea",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-git:Open Git source control": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Create new board": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false
+    }
+  },
+  "active": "2de220549ed2c209",
+  "lastOpenFiles": [
+    "notebook-master/Cryptography Lab/My Presentations/Quantum Rewinding for Many Round Protocols - Russell Lai/Intuition of Preliminaries/Trace Distance.md",
+    "notebook-master/Cryptography Lab/My Presentations/Quantum Rewinding for Many Round Protocols - Russell Lai/Preliminaries.md",
+    "notebook-master/Cryptography Lab/My Presentations/Quantum Rewinding for Many Round Protocols - Russell Lai/Intuition of Preliminaries/Registers in Hilbert Spaces.md",
+    "notebook-master/CPT_S 322/16. Software Design.md",
+    "Excalidraw/Noemi Glaeser- Efficient Registration-Based Encryption 2025-11-03 20.17.43.excalidraw.md",
+    "Excalidraw/Noemi Glaeser- Efficient Registration-Based Encryption 2025-11-03 20.21.43.excalidraw.md",
+    "Excalidraw/Noemi Glaeser- Efficient Registration-Based Encryption 2025-11-03 20.45.38.excalidraw.md",
+    "notebook-master/CPT_S 322/17. Coupling.md",
+    "Excalidraw/Unitary Operation 2025-11-05 13.54.57.excalidraw.md",
+    "notebook-master/Real Analysis/Chapter 3 Elements of Point Set Topology/2. Closed Sets.md",
+    "notebook-master/Cryptography Lab/My Presentations/Quantum States/Ket-Bra - The Projection Operator.md",
+    "notebook-master/Cryptography Lab/My Presentations/Quantum Rewinding for Many Round Protocols - Russell Lai/Intuition of Preliminaries/Wigner's Theorem - Quantum Evolution is Unitary.md",
+    "notebook-master/Cryptography Lab/My Presentations/Quantum Rewinding for Many Round Protocols - Russell Lai/Intuition of Preliminaries/Unitary Operation.md",
+    "notebook-master/Cryptography Lab/My Presentations/Quantum Rewinding for Many Round Protocols - Russell Lai/Intuition of Preliminaries/Stinespring (Unitary) Dilation Theorem.md",
+    "notebook-master/Cryptography Lab/My Presentations/Quantum Rewinding for Many Round Protocols - Russell Lai/Intuition of Preliminaries/Projectors and Projective Measurements in Hilbert Spaces.md",
+    "notebook-master/Cryptography Lab/My Presentations/Quantum Rewinding for Many Round Protocols - Russell Lai/Intuition of Preliminaries/Ket-Bra as Probability Density Matrix.md",
+    "notebook-master/Cryptography Lab/My Presentations/Quantum Rewinding for Many Round Protocols - Russell Lai/Intuition of Preliminaries/Mixed State Probability Density Matrix.md",
+    "notebook-master/Cryptography Lab/My Presentations/Quantum Rewinding for Many Round Protocols - Russell Lai/Intuition of Preliminaries/Partial Trace.md",
+    "notebook-master/Cryptography Lab/My Presentations/Quantum Rewinding for Many Round Protocols - Russell Lai/Intuition of Preliminaries/General Measurements.md",
+    "notebook-master/Cryptography Lab/My Presentations/Quantum Rewinding for Many Round Protocols - Russell Lai/Intuition of Preliminaries/Understanding Trace.md",
+    "notebook-master/Cryptography Lab/My Presentations/Quantum Rewinding for Many Round Protocols - Russell Lai/Intuition of Preliminaries/Vandermonde Matrix.md",
+    "notebook-master/Cryptography Lab/My Presentations/Quantum Rewinding for Many Round Protocols - Russell Lai/Intuition of Preliminaries/Quantum Interference and Relative Phase.md",
+    "notebook-master/Cryptography Lab/My Presentations/Quantum Rewinding for Many Round Protocols - Russell Lai/Intuition of Preliminaries/CPTP and General Evolution.md",
+    "notebook-master/CPT_S 317/16. Regular + Context Free.md",
+    "notebook-master/CPT_S 317/15. PDA implies Context Free.md",
+    "Excalidraw/Unitary Operation 2025-11-05 13.46.33.excalidraw.md",
+    "notebook-master/CPT_S 322/Homework/Graphics",
+    "notebook-master/Cryptography Lab/PKC 2026/Registration Based Encryption",
+    "notebook-master/Cryptography Lab/Old Stuff",
+    "notebook-master/Cryptography Lab/PKC 2026",
+    "notebook-master/CPT_S 322/Homework/Graphics/Manual Flask Web App/Pasted image 20251029122706.png",
+    "notebook-master/CPT_S 322/Homework/Graphics/Manual Flask Web App/Pasted image 20251027122107.png",
+    "notebook-master/CPT_S 322/Homework/Graphics/Manual Flask Web App",
+    "notebook-master/CPT_S 322/Homework/Graphics/Manual Flask Web App/Pasted image 20251029125920.png",
+    "notebook-master/CPT_S 322/Homework/Graphics/Manual Flask Web App/Pasted image 20251029125842.png",
+    "notebook-master/CPT_S 322/Homework/Graphics/Manual Flask Web App/Pasted image 20251029125837.png",
+    "notebook-master/CPT_S 322/Homework/Graphics/Manual Flask Web App/Pasted image 20251029125618.png",
+    "notebook-master/CPT_S 322/Homework/Graphics/Manual Flask Web App/Pasted image 20251029125449.png",
+    "notebook-master/CPT_S 322/Homework/Graphics/Manual Flask Web App/Pasted image 20251029125308.png",
+    "notebook-master/CPT_S 322/Homework/Graphics/Manual Flask Web App/Pasted image 20251029125054.png",
+    "notebook-master/CPT_S 322/Homework/Graphics/Manual Flask Web App/Pasted image 20251029123619.png",
+    "notebook-master/STAT 360/Homework",
+    "notebook-master/STAT 360/Graphics",
+    "notebook-master/CPT_S 322/Homework/Graphics/Docker Containerization Part 2",
+    "notebook-master/Cryptography Lab/My Presentations/Quantum Rewinding for Many Round Protocols - Russell Lai/Intuition of Preliminaries",
+    "notebook-master/STAT 360/Graphics/2. Mean, Median, Variance, and Standard Deviation",
+    "notebook-master/Cryptography Lab/Meetings/Untitled.canvas",
+    "notebook-master/Untitled.canvas",
+    "notebook-master/Differential Equations/Untitled.canvas"
+  ]
+}

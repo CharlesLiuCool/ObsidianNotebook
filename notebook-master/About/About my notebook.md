@@ -1,0 +1,1 @@
+This is my personal notebook kept since 11th grade. Obsidian formatting is not consistent throughout but hopefully improves in newer sections. Since I am the sole maintainer of this notebook, not all information is entirely accurate, let me know if you find any problems.

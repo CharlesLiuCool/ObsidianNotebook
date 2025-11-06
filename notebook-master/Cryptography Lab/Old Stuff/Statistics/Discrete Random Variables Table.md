@@ -1,0 +1,5 @@
+| *Name*       | *Definition*                                                                                                                 | *PMF/PDF: $f(x)$*            | *MGF: $M_x(t)$*    | *Mean* | *Variance* |
+| ------------ | ---------------------------------------------------------------------------------------------------------------------------- | ---------------------------- | ------------------ | ------ | ---------- |
+| Bernoulli(p) | The number of successes in one binary trial with success probability $p$                                                     | $$p^x(1-p)^{1-x}$$             | $$e^tp + 1 - p$$     | $$p$$    | $$p(1-p)$$   |
+| Bin(n,p)     | The number of successes across $n$ independent binary trials with success probability $p$ (sum of $n$ independent Bernoulli) | $$\binom{n}{x}p^x(1-p)^{n-x}$$ | $$(e^tp + 1 - p)^n$$ | $$np$$   | $$np(1-p)$$  |
+| Geo(p)       | The number of independent binary trials with success probability $p$ until the first success                                 | $$(1-p)^{x-1}p$$               | $$\frac{e^{t}p}{1-e^{t}q}$$                   | $$\frac{1}{p}$$       |   $$\frac{q}{p^2}$$         |
