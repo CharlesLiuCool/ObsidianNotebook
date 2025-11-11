@@ -13,12 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notebook-master/STAT 443/Week 12.md",
-                "mode": "source",
+                "file": "notebook-master/STAT 360/Homework/HW 8.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Week 12"
+              "title": "HW 8"
+            }
+          },
+          {
+            "id": "d3c99bed57c3f1e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notebook-master/Cryptography Lab/My Presentations/Quantum Rewinding for Many Round Protocols - Russell Lai/Intuition of Preliminaries/Trace Distance.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Trace Distance"
+            }
+          },
+          {
+            "id": "8960cc3be01aad68",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Week 12 2025-11-06 13.38.49.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Week 12 2025-11-06 13.38.49.excalidraw"
             }
           },
           {
@@ -118,7 +144,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "8768d427dc392ade",
@@ -248,33 +275,33 @@
   },
   "active": "cc1529e20bb07284",
   "lastOpenFiles": [
-    "notebook-master/STAT 443/Week 11.md",
-    "notebook-master/STAT 443/Week 12.md",
+    "notebook-master/CPT_S 317/HW 9.md",
+    "notebook-master/CPT_S 317/HW 8.md",
+    "notebook-master/CPT_S 260/HW 4.md",
+    "notebook-master/CPT_S 322/18. Cost of Software.md",
+    "notebook-master/STAT 360/Homework/HW 8.md",
+    "notebook-master/STAT 360/Homework/HW 7.md",
+    "notebook-master/CPT_S 322/Homework/Understanding Software Cost Estimation.md",
+    "notebook-master/CPT_S 322/Homework/Cohesion and Coupling.md",
+    "notebook-master/Cryptography Lab/My Presentations/Quantum Rewinding for Many Round Protocols - Russell Lai/Intuition of Preliminaries/Trace Distance.md",
     "notebook-master/Cryptography Lab/My Presentations/Quantum Rewinding for Many Round Protocols - Russell Lai/Preliminaries.md",
+    "notebook-master/Cryptography Lab/My Presentations/Quantum Rewinding for Many Round Protocols - Russell Lai/Intuition of Preliminaries/General Measurements.md",
+    "notebook-master/Cryptography Lab/My Presentations/Quantum Rewinding for Many Round Protocols - Russell Lai/Intuition of Preliminaries/CPTP and General Evolution.md",
+    "notebook-master/Cryptography Lab/My Presentations/Quantum Rewinding for Many Round Protocols - Russell Lai/Intuition of Preliminaries/Unitary Operation.md",
+    "notebook-master/STAT 443/Week 12.md",
+    "Excalidraw/Week 12 2025-11-06 13.38.49.excalidraw.md",
+    "notebook-master/STAT 443/Week 11.md",
     "notebook-master/Cryptography Lab/My Presentations/Quantum Rewinding for Many Round Protocols - Russell Lai/Intuition of Preliminaries/Vandermonde Matrix.md",
     "notebook-master/Cryptography Lab/My Presentations/Quantum Rewinding for Many Round Protocols - Russell Lai/Mistake in Russell Lai.md",
-    "notebook-master/Cryptography Lab/My Presentations/Quantum Rewinding for Many Round Protocols - Russell Lai/Intuition of Preliminaries/General Measurements.md",
-    "notebook-master/Cryptography Lab/My Presentations/Quantum Rewinding for Many Round Protocols - Russell Lai/Intuition of Preliminaries/Unitary Operation.md",
-    "notebook-master/Cryptography Lab/My Presentations/Quantum Rewinding for Many Round Protocols - Russell Lai/Intuition of Preliminaries/CPTP and General Evolution.md",
     "notebook-master/Cryptography Lab/PKC 2026/Lattice-Based Registration-Based Encryption with Compact Ciphertext.md",
     "notebook-master/Cryptography Lab/PKC 2026/Compact and Scalable Registration-Based  Encryption from Learning with Errors.md",
     "notebook-master/Cryptography Lab/PKC 2026/Registration Based Encryption/Noemi Glaeser- Efficient Registration-Based Encryption.md",
     "notebook-master/Cryptography Lab/My Presentations/Quantum Rewinding for Many Round Protocols - Russell Lai/Intuition of Preliminaries/Hermitian Operators.md",
     "notebook-master/Cryptography Lab/My Presentations/Quantum Rewinding for Many Round Protocols - Russell Lai/Intuition of Preliminaries/General Quantum Measurement.md",
-    "notebook-master/CPT_S 317/HW 8.md",
     "Excalidraw/Noemi Glaeser- Efficient Registration-Based Encryption 2025-11-03 20.21.43.excalidraw.md",
     "Excalidraw/Noemi Glaeser- Efficient Registration-Based Encryption 2025-11-04 22.35.49.excalidraw.md",
     "notebook-master/Cryptography Lab/My Presentations/Quantum Rewinding for Many Round Protocols - Russell Lai/Intuition of Preliminaries/Projectors and Projective Measurements in Hilbert Spaces.md",
-    "notebook-master/Cryptography Lab/My Presentations/Quantum Rewinding for Many Round Protocols - Russell Lai/Intuition of Preliminaries/Born Rule & Ket-Bra as Probability Density Matrix.md",
     "notebook-master/Cryptography Lab/My Presentations/Quantum Rewinding for Many Round Protocols - Russell Lai/Intuition of Preliminaries/Untitled",
-    "notebook-master/Cryptography Lab/My Presentations/Quantum Rewinding for Many Round Protocols - Russell Lai/Intuition of Preliminaries/Kraus Operators.md",
-    "notebook-master/Cryptography Lab/My Presentations/Quantum Rewinding for Many Round Protocols - Russell Lai/Intuition of Preliminaries/Wigner's Theorem - Quantum Evolution is Unitary.md",
-    "notebook-master/STAT 360/Homework/HW 4.md",
-    "notebook-master/Cryptography Lab/My Presentations/Quantum Rewinding for Many Round Protocols - Russell Lai/Intuition of Preliminaries/Trace Distance.md",
-    "notebook-master/Cryptography Lab/My Presentations/Quantum Rewinding for Many Round Protocols - Russell Lai/Intuition of Preliminaries/Registers in Hilbert Spaces.md",
-    "notebook-master/CPT_S 322/16. Software Design.md",
-    "Excalidraw/Noemi Glaeser- Efficient Registration-Based Encryption 2025-11-03 20.17.43.excalidraw.md",
-    "Excalidraw/Noemi Glaeser- Efficient Registration-Based Encryption 2025-11-03 20.45.38.excalidraw.md",
     "notebook-master/CPT_S 322/Homework/Graphics",
     "notebook-master/Cryptography Lab/PKC 2026/Registration Based Encryption",
     "notebook-master/Cryptography Lab/Old Stuff",

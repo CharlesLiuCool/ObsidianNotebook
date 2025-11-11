@@ -184,9 +184,11 @@ A *projective measurement* is a general measurement where the $M_i$ are projecto
 >For states $\rho, \sigma$,
 >$$d_{\text{comp}} := \max_{D,|D| \le N} |\text{Pr}[D(\rho) \to 1] - \text{Pr}[D(\sigma)]\to 1|$$
 > where $D$ is a quantum circuit.
+> 
+> We say that $d_{\text{comp}}(\rho_{\lambda}, \sigma_{\lambda}) \le \epsilon + \text{negl}(\lambda)$ if for all polynomials $p$, $d_{\text{comp}}(\rho_{\lambda}, \sigma_{\lambda}) \le \epsilon + \text{negl}(\lambda)$.
 
 >**Lemma 1 (Gentle Measurement \[Win$99$]).**
 >Let $\rho \in S(\mathcal{H})$ and $P = (\Pi, \textbf{I} - \Pi)$ be a binary projective measurement on $\mathcal{H}$ such that $\text{Tr}(\Pi \rho) \ge 1 - \delta$. Let
->$$\rho' = \dfrac{\Pi \rho \Pi}{\text{Tr}(\Pi \rho)} \text{ and }\rho'' = \Pi\rho\Pi + (1-\Pi)\rho(1-\Pi)$$
+>$$\rho' = \dfrac{\Pi \rho \Pi}{\text{Tr}(\Pi \rho)} \text{ and }\rho'' = \Pi\rho\Pi + (\textbf{I}-\Pi)\rho(\textbf{I}-\Pi)$$
 >Then
 >$$d(\rho,\rho') \le 2\sqrt{\delta} \text{ and }d(\rho,\rho'')\le2\sqrt{\delta}$$

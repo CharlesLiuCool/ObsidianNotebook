@@ -61,6 +61,7 @@ ___
 ### **Part 5: Final Reflection**
 
 1. Why is LOC alone not a reliable measure of software cost?
+LOC only measures quantity of code, not complexity, quality, or effort. Two same LOC programs can be very different in difficulty, quality, and required knowledge. Modern development can significantly reduce lines of code also. LOC doesn't capture design, testing, and maintenance costs also.
 2. Which cost factor surprised your group the most? Why?
-
+Maintenance was a very surprising factor. We realized that thsi may be very important, but we didn't realize it was such a high expense task. Fixing bugs, updating systems, and adapting technologies really adds up.
 ___
